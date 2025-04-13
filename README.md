@@ -54,5 +54,16 @@ A small-scale autonomous catamaran inspired by WAM-V designs. This version is po
 
 ## 🔗 My Part Links (To Track What I Bought)
 
-Paste your purchase links here for easy tracking:
-
+| Item | Links |
+|------|-------|
+| Raspberry Pi 3B+ | [paste link] |
+| 2x DC motors + props | [paste link] |
+| L298N motor driver | [paste link] |
+| NEO-6M GPS | [paste link] |
+| MPU6050 IMU | [paste link] |
+| JSN-SR04T waterproof ultrasonic | [paste link] |
+| Pool noodles | Dollar Store |
+| Plywood/plastic sheet | [paste link] |
+| Waterproof box | [paste link] |
+| 18650 battery pack | [paste link] |
+| Breadboard + jumpers, zip ties | Already have
